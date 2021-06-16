@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lupinthe14th&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![lupinthe14th's github stats](https://github-readme-stats.vercel.app/api?username=lupinthe14th&show_icons=true&count_private=true&line_height=40)
